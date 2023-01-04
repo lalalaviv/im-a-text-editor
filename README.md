@@ -43,7 +43,6 @@ npm install
 To start run the following command in terminal 
 ```bash
 npm run start:dev
-npm run start
 ```
 Then go to http://localhost:3000/ to run this application on your local machine.
 
