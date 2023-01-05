@@ -21,7 +21,6 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4",
-    "heroku config":"set USE_NPM_INSTALL=true"
+    "nodemon": "^2.0.4"
   }
 }
