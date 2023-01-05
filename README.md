@@ -23,7 +23,7 @@ It is a simple text editor app that can function both online and offline and fea
 
 ## Installation 
 
-Open Heroku deployed application : 
+Open Heroku deployed application : https://git.heroku.com/whispering-mountain-24750.git
 Go to the link and hit the "install" button to install the app locally.
   
 For repo clone or download:
@@ -47,7 +47,7 @@ npm run start:dev
 Then go to http://localhost:3000/ to run this application on your local machine.
 
 ## Usage
-Use Heroku deployed link:
+Use Heroku deployed link:https://git.heroku.com/whispering-mountain-24750.git
 and install if you want to use it offline.
 
 ## User Story
@@ -89,6 +89,9 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Mock-Up
+The following images shows the applicaiton: 
+![Image of the applicaiton.](./Assets/demo.png)
+
 
 The following animation demonstrates the application functionality:
 
