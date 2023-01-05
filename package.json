@@ -9,8 +9,8 @@
     "server": "cd server nodemon server.js --ignore client",
     "build": "cd client && npm run build",
     "install": "cd client && npm install",
-    "client": "cd client && npm start",
-    "heroku config":"set USE_NPM_INSTALL=true"
+    "client": "cd client && npm start"
+    
   },
   "keywords": [],
   "author": "",
@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "heroku config":"set USE_NPM_INSTALL=true"
   }
 }
