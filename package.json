@@ -10,7 +10,7 @@
     "build": "cd client && npm run build",
     "install": "cd client && npm install",
     "client": "cd client && npm start",
-    "dev": "NODE_ENV=production npm start"
+    "heroku config":"set USE_NPM_INSTALL=true"
   },
   "keywords": [],
   "author": "",
